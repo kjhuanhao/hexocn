@@ -1,11 +1,5 @@
-# vuepress-theme-reco-demo
+## Hexocn中文站
 
-Blog demo for vuepress-theme-reco
+致力于帮助你搭建完美的博客
 
-```bash
-# 编译
-npm run build
-
-# 启动
-npm run dev
-```
+> 目前的项目进度：15%

@@ -12,16 +12,17 @@ set -e
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
 
-git init
+#git init
 git add -A
 git commit -m 'deploy'
 
 # please change it to your username
 
 #git@github.com:<username>/hexocn.git
-git remote add origin git@github.com:kjhuanhao/hexocn.git
+#git remote add origin git@github.com:kjhuanhao/hexocn.git
 
 # push
-git push --set-upstream origin master
+#git push --set-upstream origin master
+git push
 
-cd -
+#cd -
