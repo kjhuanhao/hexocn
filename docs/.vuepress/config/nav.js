@@ -17,7 +17,7 @@ module.exports = [
         }
       ]
     },
-      { text: '常见问题', link: '/views/other/question', icon: 'reco-faq' },
+      { text: '帮助', link: '../help/', icon: 'reco-faq' },
       { text: 'GitHub', link: 'https://github.com/kjhuanhao/hexocn', icon: 'reco-github'},
 
 

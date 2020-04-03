@@ -1,6 +1,0 @@
----
-title: mac
----
-
-# test
-## test

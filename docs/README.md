@@ -46,29 +46,7 @@ features:
 
 # 贡献说明
 只要你本文档做出贡献，你都可以进入贡献作者的行列
-如果你想加入文档开发行列，可以加入本群：`1026633080`（请备注hexo文档开发）
+如果你想加入文档开发行列，可以加入本群：`824641786`（请备注hexo文档开发）
 
 ## 如何贡献
-**方法1：**
-```shell
-# 初始化
-npm install -g vuepress
-npm install @vuepress-reco/theme-cli -g
-
-# 克隆项目
-git clone https://github.com/kjhuanhao/hexocn.git
-cd hexocn
-
-# 运行
-npm run dev
-
-# 编译
-npm run build
-```
-**方法2：**
-
-::: tip
-直接提交issues:
-
-<https://github.com/kjhuanhao/hexocn/issues>
-:::
+请参考文档: <https://hexocn.cn/help/contribution.html>

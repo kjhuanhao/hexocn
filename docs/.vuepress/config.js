@@ -3,7 +3,7 @@ module.exports = {
   description: '致力于帮助你搭建完美的博客',
   dest: 'public',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/favicon-96x96.png' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   theme: 'reco',
@@ -26,13 +26,9 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'Hexocn',
+    author: 'Hexo中文站',
     // 作者头像
-    authorAvatar: '/avatar.png',
-    // 备案号
-    record: 'xxxx',
-    // 项目开始时间
-    startYear: '2020'
+    authorAvatar: 'https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/hexo.png',
     /**
      * 密钥 (if your blog is private)
      */

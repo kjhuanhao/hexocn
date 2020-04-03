@@ -1,7 +1,7 @@
 ---
 name: 其他Other
 about: 其他情况
-title: '【Other】'
+title: ''
 labels: 'other'
 assignees: ''
 
