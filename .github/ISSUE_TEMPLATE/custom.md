@@ -1,7 +1,7 @@
 ---
 name: 询问问题
 about: 在这里你可以寻求帮助，快速解决问题
-title: '【问题】'
+title: ''
 labels: 'help wanted'
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
 name: 提交bug
 about: 提供bug以改进我们
-title: "【BUG】"
+title: ""
 labels: 'bug'
 assignees: kjhuanhao
 
