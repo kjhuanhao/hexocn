@@ -18,12 +18,12 @@ title: 贡献说明
 > 适用于要进行大量修改的人
 
 在终端执行以下命令
-```
+```bash
 # 初始化
 npm install -g vuepress
 npm install @vuepress-reco/theme-cli -g
 
-//在克隆之前，请fork本项目
+##在克隆之前，请fork本项目
 # 克隆项目
 git clone https://github.com/kjhuanhao/hexocn.git
 cd hexocn

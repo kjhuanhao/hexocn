@@ -29,6 +29,15 @@ module.exports = {
     author: 'Hexo中文站',
     // 作者头像
     authorAvatar: 'https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/hexo.png',
+    noFoundPageByTencent: false,
+      // 你的 Git 项目地址，添加后会在导航栏的最后追加
+      repo: 'kjhuanaho/hexocn',
+      // 启用编辑
+      editLinks: true,
+      // 编辑按钮的 Text
+      editLinkText: '在Github编辑此页',
+      // 编辑文档的所在目录
+      docsDir: 'docs',
     /**
      * 密钥 (if your blog is private)
      */
