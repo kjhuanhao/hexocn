@@ -37,7 +37,7 @@ npm run dev
 2. 如果要添加文档，请在docs下新建一个文件夹
 3. sidebar的配置文件统一命名为`sidebar_contents.js`
 
-修改并确认了可以正常运行后，请上传到你的仓库，然后进行申请合并[pull]( https://github.com/kjhuanhao/hexocn/pulls
+修改并确认了可以正常运行后，请上传到你的仓库，然后进行申请合并[pull](https://github.com/kjhuanhao/hexocn/pulls）
 
 ## 项目组群号
 欢迎加入hexocn项目组：`824641786`
