@@ -1,4 +1,5 @@
-<p align="center"><a href="https://kjhuanhao.cn/" target="_blank" ><img width="150" src="https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/hexo.png" alt="hexocn"></a></p>
+# Hexocn
+> 一个中文的[hexo](https://hexo.io/)网站
 
 # Introduce
 
