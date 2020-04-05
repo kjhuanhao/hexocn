@@ -1,8 +1,10 @@
 ---
 title: Makrdown教程-Mr.Li
 author: Mr.Li
+categories:
+ - markdown
 ---
-
+<!-- more -->
 
 ## 关于Markdown的使用
 ## 前言

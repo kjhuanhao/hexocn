@@ -13,12 +13,17 @@ module.exports = {
     sidebar: require("./config/sidebar"),
     type: 'home',
     // 博客设置
-   // blogConfig: {
-    //  tag: {
-     //   location: 3, // 在导航栏菜单中所占的位置，默认3
-     //   text: 'Tag' // 默认 “标签”
-    //  }
-   // },
+    blogConfig: {
+      category: {
+        location: 3,     
+        text: '贡献文档' 
+      },
+    // tag: {
+    // location: 3, 
+     // text: '标签', 
+     // icon: 'reco-npm'
+    // }
+  },
     logo: 'https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/hexo.png',
     // 搜索设置
     search: true,

@@ -1,4 +1,5 @@
 module.exports = [
+   
     { text: '主页', link: '/', icon: 'reco-home' },
       { text: '文档', 
       icon: 'reco-api',
@@ -18,11 +19,13 @@ module.exports = [
         }*/
       ]
     },
-      { text: '贡献文档', link: '../new/', icon: 'reco-blog' },
+     // { text: '贡献文档', link: '../new/', icon: 'reco-blog' },
       { text: '主题', link: '../themes/', icon: 'reco-theme' },
       { text: '插件', link: '../plugins/', icon: 'reco-npm' },
+      { text: '博客展示', link: '../blog/', icon: 'reco-blog' },
       { text: '帮助', link: '../help/', icon: 'reco-faq' },
-      { text: 'GitHub', link: 'https://github.com/kjhuanhao/hexocn', icon: 'reco-github'},
+      { text: '项目成员', link: '../member/' },
+     // { text: 'GitHub', link: 'https://github.com/kjhuanhao/hexocn', icon: 'reco-github'},
 
 
 
