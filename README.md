@@ -1,4 +1,4 @@
-<center><img src="https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/hexo.png"></center>
+<p align="center"><a href="https://kjhuanhao.cn/" target="_blank" ><img width="150" src="https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/hexo.png" alt="hexocn"></a></p>
 
 # Introduce
 
