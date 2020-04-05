@@ -10,11 +10,10 @@ module.exports = [ 
          },
 {
     
-             title: 'Markdown',   
+             title: 'Markdown教程',   
              collapsable: true, 
              children: [
-             'markdown/',
-             'markdown/markdown-MaskXman',
+             'markdown-MaskXman'
              ]
              },
        
