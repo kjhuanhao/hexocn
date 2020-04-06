@@ -1,4 +1,6 @@
 # Hexocn
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkjhuanhao%2Fhexocn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkjhuanhao%2Fhexocn?ref=badge_shield)
+
 > 一个中文的[hexo](https://hexo.io/)网站
 
 # Introduce
@@ -37,3 +39,6 @@
 遵循[GPL](https://github.com/kjhuanhao/hexocn/blob/master/LICENSE)开源协议
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkjhuanhao%2Fhexocn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkjhuanhao%2Fhexocn?ref=badge_large)
