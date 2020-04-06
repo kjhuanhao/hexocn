@@ -7,7 +7,7 @@ module.exports = [
         { 
           text: '教程', items: [
             { text: '本站教程', link: '/docscn/' },
-            { text: '官方教程', link: '/hexocn/' }
+            { text: '官方教程', link: 'https://hexo.io/zh-cn/docs/index.html' }
           ],
         },
         

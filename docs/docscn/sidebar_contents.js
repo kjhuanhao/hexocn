@@ -1,24 +1,25 @@
 module.exports = [ 
 {
 
-	 title: '基础',   
+	 title: '准备',   
 	 collapsable: true, 
 	 children: [
 	
 	 '',
 	 'windows',
 	 'mac',
-	 'linux' 
+	 'linux'
 	
 	 ]
 	 },
 	{
 
-		 title: '进阶',   
+		 title: '建站',   
 		 collapsable: true, 
 		 children: [
 		
-		 'windows',
+		 'start',
+		 'writing'
 		
 		 ]
 		
