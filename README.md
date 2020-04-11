@@ -37,3 +37,5 @@
 遵循[GPL](https://github.com/kjhuanhao/hexocn/blob/master/LICENSE)开源协议
 
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fkjhuanhao%2Fhexocn?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkjhuanhao%2Fhexocn.svg?type=small"/></a>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3cff5a61-fff3-469b-99aa-098bcb18cebc/deploy-status)](https://app.netlify.com/sites/hexocn/deploys)

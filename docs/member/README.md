@@ -14,12 +14,3 @@ title: 项目成员
 ### 本站主题支持
 感谢[vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco)提供的主题
 
-## 更新记录
-2020.4.11 
-:::tip
-2020.4.11 基本完善文档
-内容:
-
-1. 增加魔改主题模块
-2. 完善部分功能
-:::

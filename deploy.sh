@@ -11,7 +11,7 @@ cp -rf public/ ~/hexocnwebsite
 #cp -rf public ./deploy/
 cd public
 # if you are deploying to a custom domain
-echo 'hexocn.cn' > CNAME
+#echo 'hexocn.cn' > CNAME
 
 git init
 git add -A

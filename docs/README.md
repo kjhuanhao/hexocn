@@ -51,3 +51,9 @@ features:
 
 ## 如何贡献
 请参考文档: <https://hexocn.cn/help/contribution.html>
+
+## 更新记录
+
+请见: [changelog](/changelog/)
+
+查看我们的计划: [project](https://github.com/kjhuanhao/hexocn/projects/2)
