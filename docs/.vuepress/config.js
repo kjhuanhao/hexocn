@@ -5,6 +5,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/kjhuanhao/thecdn/hexocn/ico.png' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
+   // ["script", { src: "https://cdn.jsdelivr.net/gh/kjhuanhao/webcdn@master/hexocn/jishu.js" }]
   ],
   
   theme: 'reco',

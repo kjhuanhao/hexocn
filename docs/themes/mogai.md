@@ -21,7 +21,7 @@ sidebar: 'auto'
 **如果你不想你的主题在本站收录，请联系我们！**
 
 
-## hexo-theme-next5-leaf
+## next5-leaf
 <center><img src="https://cdn.jsdelivr.net/gh/kjhuanhao/thecdn/hexocn/20200411103455.png"  width="400"><br>
 <font size="2">
 - next
@@ -33,3 +33,17 @@ sidebar: 'auto'
 **项目地址:** <https://github.com/leafjame/hexo-theme-next5-leaf>
 
 **预览站点:** <https://www.liaofuzhan.com/>
+
+
+## sakura
+<center><img src="https://cdn.jsdelivr.net/gh/kjhuanhao/thecdn/hexocn/20200411181015.png"  width="400"><br>
+<font size="2">
+- Sakura
+</font></center>
+
+**描述:**
+本主题是honjun/hexo-theme-sakura的二次开发版本，加入seo优化，功能开关，优化访问速度
+
+**项目地址:** <https://github.com/xbclub/Hexo-theme-sakura>
+
+**预览站点:** <https://42cloud.cn/>
