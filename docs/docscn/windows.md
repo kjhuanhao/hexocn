@@ -9,17 +9,17 @@ title: Windows
 
 选择windows安装包.msi安装
 
-![](https://cdn.jsdelivr.net/gh/huanhaokj/cdn/gtd/Snipaste_2020-02-29_08-54-53.png)
+![](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/gtd/Snipaste_2020-02-29_08-54-53.png)
 
 
 
 运行安装包，我们默认选择c盘
 
-![](https://cdn.jsdelivr.net/gh/huanhaokj/cdn/gtd/Snipaste_2020-02-29_08-49-21.png)
+![](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/gtd/Snipaste_2020-02-29_08-49-21.png)
 
 在这里选择Add to PATH然后点Next继续就行了
 
-![](https://cdn.jsdelivr.net/gh/huanhaokj/cdn/gtd/Snipaste_2020-02-29_08-49-39.png)
+![](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/gtd/Snipaste_2020-02-29_08-49-39.png)
 
 ***
 
@@ -31,11 +31,11 @@ title: Windows
 
 > <https://www.lanzous.com/i9s7tib>
 
-![](https://cdn.jsdelivr.net/gh/huanhaokj/cdn/gtd/Snipaste_2020-02-29_08-57-32.png)
+![](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/gtd/Snipaste_2020-02-29_08-57-32.png)
 
 运行安装包，选择合适的安装位置，然后点Next
 
-![](https://cdn.jsdelivr.net/gh/huanhaokj/cdn/gtd/Snipaste_2020-02-29_09-01-49.png)
+![](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/gtd/Snipaste_2020-02-29_09-01-49.png)
 
 后面的安装步骤全部只要点Next就行了，不需要我们多余配置
 
@@ -58,7 +58,7 @@ $ npm -v
 
 如果输出了版本号，那么证明配置成功，如果没有版本号，请重新安装nodejs（检查是否勾选Add to Path），或者手动为nodejs添加环境变量
 
-![image](https://cdn.jsdelivr.net/gh/huanhaokj/cdn/img/213.ophl1x6e4sp.png)
+![image](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/img/213.ophl1x6e4sp.png)
 
 ***
 

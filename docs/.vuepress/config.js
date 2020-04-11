@@ -66,7 +66,12 @@ module.exports = {
       appKey: 'CgyWCzmtNVRElelaPoNMdlcj', // your appKey
     }
   },
-  plugins: [['vuepress-plugin-code-copy', true]],
+  plugins: [
+    ["vuepress-plugin-code-copy", {
+        successText: '复制成功!'
+        }
+    ]
+  ],
   markdown: {
     lineNumbers: false
   }

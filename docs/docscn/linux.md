@@ -56,7 +56,7 @@ $ npm -v
 
 如果输出了版本号，那么证明配置成功，如果没有版本号，请重新安装nodejs，或者手动为nodejs添加环境变量
 
-![screenshot2020-04-06_11-35-48](https://cdn.jsdelivr.net/gh/mrhuanhao/cdn@master/2020/04/06/c6bb2dba4793d96ee390e7187b77a520.png)
+![screenshot2020-04-06_11-35-48](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/2020/04/06/c6bb2dba4793d96ee390e7187b77a520.png)
 
 ## 安装cnpm
 
