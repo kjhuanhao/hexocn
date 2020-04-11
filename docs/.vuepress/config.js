@@ -66,7 +66,7 @@ module.exports = {
       appKey: 'CgyWCzmtNVRElelaPoNMdlcj', // your appKey
     }
   },
-
+  plugins: [['vuepress-plugin-code-copy', true]],
   markdown: {
     lineNumbers: false
   }

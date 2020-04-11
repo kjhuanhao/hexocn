@@ -12,6 +12,7 @@
   },
   "description": "Chinese hexo",
   "dependencies": {
-    "markdown-it": "^10.0.0"
+    "markdown-it": "^10.0.0",
+    "vuepress-plugin-code-copy": "^1.0.6"
   }
 }
