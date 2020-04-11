@@ -19,11 +19,47 @@ module.exports = [ 
 		 children: [
 		
 		 'start',
-		 'writing'
+		 'writing',
+		 'configuration',
+		 'commands',
+		 'changethemes',
+		 'deploy'
+
 		
 		 ]
 		
 		 },
+		{
+
+			 title: '进阶',   
+			 collapsable: true, 
+			 children: [
+			 'markdown',
+			 'font-matter',
+			 'tag-plugins',
+			 'migration'
+
+	
+			
+			 ]
+			
+			 },
+			{
+
+				 title: '高级玩法',   
+				 collapsable: true, 
+				 children: [
+				 'pic',
+				 'more'
+				 
+	
+		
+				
+				 ]
+				
+				 },
+
+	
 		
 ]
 

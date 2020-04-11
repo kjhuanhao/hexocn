@@ -1,9 +1,9 @@
 module.exports = {
   title: "Hexo中文站",
-  description: '致力于帮助你搭建完美的博客',
+  description: '加载中···请耐心等待!',
   dest: 'public',
   head: [
-    ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/favicon-96x96.png' }],
+    ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/kjhuanhao/thecdn/hexocn/ico.png' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   
@@ -24,7 +24,7 @@ module.exports = {
      // icon: 'reco-npm'
     // }
   },
-    logo: 'https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/hexo.png',
+    logo: 'https://cdn.jsdelivr.net/gh/kjhuanhao/thecdn/hexocn/hexo200.png',
     // 搜索设置
     search: true,
     searchMaxSuggestions: 10,
@@ -34,7 +34,7 @@ module.exports = {
     // 作者
     author: 'Hexo中文站',
     // 作者头像
-    authorAvatar: 'https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/hexo.png',
+    authorAvatar: 'https://cdn.jsdelivr.net/gh/kjhuanhao/thecdn/hexocn/hexo200.png',
     noFoundPageByTencent: false,
       // Git 项目地址
       repo: 'kjhuanhao/hexocn',

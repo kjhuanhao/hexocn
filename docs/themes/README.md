@@ -5,7 +5,7 @@ sidebar: 'auto'
 ## 编辑本页的用户
 <table>
   <tr>
-    <td align="center"><a href="https://mrhuanhao.cn/" target=_blank><img src="https://cdn.jsdelivr.net/gh/mrhuanhao/cdn/myimg/huanhao.jpg" width="100px;" /><br /><sub><b>Huanhao</b></sub></a><br /><a href="https://github.com/kjhuanhao" title="Code" target=_blank>💻</a></td>
+    <td align="center"><a href="https://mrhuanhao.cn/" target=_blank><img src="https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn@master/avatar.jpg" width="100px;" /><br /><sub><b>Huanhao</b></sub></a><br /><a href="https://github.com/kjhuanhao" title="Code" target=_blank>💻</a></td>
       <td align="center"><a href="https://maskxman.github.io/" target=_blank><img src="https://cdn.jsdelivr.net/gh/MaskXman/source@2.0/touxiang.jpg" width="100px;" /><br /><sub><b>Mr.Li</b></sub></a><br /><a href="https://github.com/MaskXman" title="Code" target=_blank>💻</a></td>
 
   </tr>

@@ -20,7 +20,7 @@ git commit -m 'deploy'
 
 # git push ！！warning 
 git push -f git@e.coding.net:huanhao/hexocnwebsite.git master
-git push -f git@github1.com:mrhuanhao/mrhuanhao.github.io.git master
+git push -f git@github.com:kjhuanhao/hexocnsite.git master
 
 
 

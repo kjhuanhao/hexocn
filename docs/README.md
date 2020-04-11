@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://cdn.jsdelivr.net/gh/mrhuanhao/hexocn/icon/hexo.png
+heroImage: https://cdn.jsdelivr.net/gh/kjhuanhao/thecdn/hexocn/h128.png
 # heroImageStyle: {
 #  maxWidth: '600px',
 #  width: '100%',
@@ -15,6 +15,7 @@ bgImageStyle: {
 isShowTitleInHome: true
 actionText: 开始使用→
 actionLink: ../docscn/
+description: '致力于帮你搭建完美博客'
 features:
 - title: 内容
   details: 在hexo原网站上，增加markdown、图床、优化、魔改美化等内容

@@ -11,16 +11,19 @@ module.exports = [
           ],
         },
         
-       /* {
-          text: '插件', items: [
-            { text: '官方插件', link: '/views/plugins/index.html' },
-            { text: '插件广场', link: '/views/other/recommend.html' }
-          ]
-        }*/
+       
       ]
     },
      // { text: '贡献文档', link: '../new/', icon: 'reco-blog' },
-      { text: '主题', link: '/themes/', icon: 'reco-theme' },
+      //{ text: '主题', link: '/themes/', icon: 'reco-theme' },
+      {
+        text: '主题', 
+        icon: 'reco-theme',
+        items: [
+          { text: '主题', link: '/themes/',icon: 'reco-theme' },
+          { text: '魔改主题', link: '/themes/mogai.html' }
+        ]
+      },
       { text: '插件', link: '/plugins/', icon: 'reco-npm' },
       { text: '博客展示', link: '/blog/', icon: 'reco-blog' },
       { text: '帮助', link: '/help/', icon: 'reco-faq' },

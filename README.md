@@ -1,11 +1,11 @@
 # Hexocn
-> 一个中文的[hexo](https://hexo.io/)网站
+> 一个中文的[hexo](https://hexocn.cn/)网站
 
 # Introduce
 
 致力于帮助你搭建完美的博客,我们支持所有人参与
 
-> 目前的项目进度：60%
+> 目前的项目进度：95%
 
 # 为何使用Hexo
 * hexo快速、简洁

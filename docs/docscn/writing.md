@@ -28,15 +28,15 @@ $ hexo new "my-first-blog"
 
 此时生成的文章被存储在`博客目录/source/_posts`
 
-![screenshot2020-04-06_12-38-18](https://cdn.jsdelivr.net/gh/mrhuanhao/cdn@master/2020/04/06/ed1c751fcf3cf7d27aac9f044e1dbc94.png)
+![screenshot2020-04-06_12-38-18](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/2020/04/06/ed1c751fcf3cf7d27aac9f044e1dbc94.png)
 
 我们发现这是一个`.md`结尾的文件，且种类为`markdown`，你暂时可以当他为一个文本文件，后面的教程会提到markdown的书写规范
 
 用你默认的记事本软件打开后，显示如下
 
-![screenshot2020-04-06_12-41-13](https://cdn.jsdelivr.net/gh/mrhuanhao/cdn@master/2020/04/06/21c7abacc0019f07827e3583f759fbaf.png)
+![screenshot2020-04-06_12-41-13](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/2020/04/06/21c7abacc0019f07827e3583f759fbaf.png)
 
-其中使用两个`---`里面的内容是`fontmatter`，你暂时无需理会
+其中使用两个`---`里面的内容是`font-matter`，你暂时无需理会，在进阶中你会学到
 
 这里面是你的文章信息
 
@@ -52,11 +52,11 @@ tags:
 在这里进行写作
 ```
 
-如果你要开始写作，必须在`fontmatter`的下面开始写作
+如果你要开始写作，必须在`font-matter`的下面开始写作
 
 我们可以写上，我的第一篇博客
 
-![screenshot2020-04-06_12-44-08](https://cdn.jsdelivr.net/gh/mrhuanhao/cdn@master/2020/04/06/c87f1eadeff8d1251eae0171ea29ec31.png)
+![screenshot2020-04-06_12-44-08](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/2020/04/06/c87f1eadeff8d1251eae0171ea29ec31.png)
 
 ## 如何本地预览你的站点
 
@@ -67,5 +67,5 @@ $ hexo s   #预览命令
 
 之后打开<http://localhost:4000>
 
-![screenshot2020-04-06_12-44-47](https://cdn.jsdelivr.net/gh/mrhuanhao/cdn@master/2020/04/06/803fb5a10c66357f0559ea2c7b749560.png)
+![screenshot2020-04-06_12-44-47](https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/2020/04/06/803fb5a10c66357f0559ea2c7b749560.png)
 
