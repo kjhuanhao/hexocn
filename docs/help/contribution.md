@@ -23,9 +23,12 @@ title: 贡献说明
 npm install -g vuepress
 npm install @vuepress-reco/theme-cli -g
 
-##在克隆之前，请fork本项目
+# 安装依赖
+npm install
+
+##在克隆之前，请fork本项目,以便合并分支
 # 克隆项目
-git clone https://github.com/kjhuanhao/hexocn.git
+git clone https://github.com/yourhexocn-fork/hexocn.git
 cd hexocn
 
 # 运行(可本地预览以及查错)

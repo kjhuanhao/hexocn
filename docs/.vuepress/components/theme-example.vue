@@ -43,7 +43,14 @@ export default {
           link: 'https://bili33.top',
           themeimg: 'https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/show/blog.png'
         },
+        {
+          name: 'VERBG',
+          desc: 'Welcome To Verbg.com',
+          link: 'https://verbg.com/',
+          themeimg: 'https://cdn.jsdelivr.net/gh/wangchenhui001/wangchenhui001.github.io/hexocn.jpg'
+        }
 
+ 
       ]
     }
   }
