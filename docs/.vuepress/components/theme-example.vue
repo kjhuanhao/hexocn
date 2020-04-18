@@ -31,6 +31,19 @@ export default {
           link: 'https://maskxman.github.io/', 
           themeimg: 'https://cdn.jsdelivr.net/gh/MaskXman/source@4.0/Blog.jpg' 
         },
+        {
+        name: '小康博客',
+        descr: '一个收藏回忆与分享技术的地方！',
+        link: 'https://www.antmoe.com/',
+        themeimg: 'https://ae01.alicdn.com/kf/H2b9c44b1d25c4da3ba30df0a744b1437A.png'
+        },
+        {
+          name: 'GamerNoTitle',
+          desc: '一个在懵懂无知中成长的高中生程序员^V^',
+          link: 'https://bili33.top',
+          themeimg: 'https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/show/blog.png'
+        },
+
       ]
     }
   }
