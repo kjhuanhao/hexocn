@@ -33,7 +33,7 @@ export default {
         },
         {
         name: '小康博客',
-        descr: '一个收藏回忆与分享技术的地方！',
+        desc: '一个收藏回忆与分享技术的地方！',
         link: 'https://www.antmoe.com/',
         themeimg: 'https://ae01.alicdn.com/kf/H2b9c44b1d25c4da3ba30df0a744b1437A.png'
         },

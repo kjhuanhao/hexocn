@@ -7,7 +7,7 @@ set -e
 npm run build
 
 # navigate into the build output directory
-cp -rf public/ ~/hexocnwebsite
+#cp -rf public/ ~/hexocnwebsite
 #cp -rf public ./deploy/
 cd public
 # if you are deploying to a custom domain
