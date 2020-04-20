@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
-
+# author: Huanhao
+#des:这是一个部署脚本，本站部署人员专用
 # abort on errors
 set -e
 
@@ -7,8 +8,7 @@ set -e
 npm run build
 
 # navigate into the build output directory
-#cp -rf public/ ~/hexocnwebsite
-#cp -rf public ./deploy/
+
 cd public
 # if you are deploying to a custom domain
 #echo 'hexocn.cn' > CNAME
@@ -21,8 +21,6 @@ git commit -m 'deploy'
 # git push ！！warning 
 #git push -f git@e.coding.net:huanhao/hexocnwebsite.git master
 git push -f git@github.com:kjhuanhao/hexocnsite.git master
-
-
 
 
 

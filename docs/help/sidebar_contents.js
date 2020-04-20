@@ -1,15 +1,32 @@
 module.exports = [ 
 {
 
-	 title: '贡献方式',   
+	 title: '说明',   
 	 collapsable: true, 
 	 children: [
-	 '',
-	 'contribution',
-	 'questions',
+	 ''
+
 	
 	 ]
 	 },
+	{
+
+		 title: '贡献文档',   
+		 collapsable: true, 
+		 children: [
+		 'contribution'
+	
+		 ]
+		 },
+		{
+
+			 title: '问题',   
+			 collapsable: true, 
+			 children: [
+			 'questions'
+		
+			 ]
+			 },
 		
 ]
 

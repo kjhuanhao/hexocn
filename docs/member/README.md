@@ -11,6 +11,9 @@ title: 项目成员
   </tr>
 </table>
 
+## 本站合作方
+[Hexo中文社区](https://hexo-china.org/)为你解答疑惑的hexo中文社区
+
 ### 本站主题支持
 感谢[vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco)提供的主题
 

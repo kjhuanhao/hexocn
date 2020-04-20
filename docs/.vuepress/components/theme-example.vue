@@ -32,16 +32,22 @@ export default {
           themeimg: 'https://cdn.jsdelivr.net/gh/MaskXman/source@4.0/Blog.jpg' 
         },
         {
-        name: '小康博客',
-        desc: '一个收藏回忆与分享技术的地方！',
-        link: 'https://www.antmoe.com/',
-        themeimg: 'https://ae01.alicdn.com/kf/H2b9c44b1d25c4da3ba30df0a744b1437A.png'
+          name: 'Xuexi’s Blog',
+          desc: '君浅吟，叹落笔',
+          link: 'https://xiabor.com',
+          themeimg: 'https://photo-1259366245.cos.ap-chengdu.myqcloud.com/yanshitu.jpg'
         },
         {
           name: 'GamerNoTitle',
           desc: '一个在懵懂无知中成长的高中生程序员^V^',
           link: 'https://bili33.top',
           themeimg: 'https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/show/blog.png'
+        },
+         {
+        name: '小康博客',
+        desc: '一个收藏回忆与分享技术的地方！',
+        link: 'https://www.antmoe.com/',
+        themeimg: 'https://ae01.alicdn.com/kf/H2b9c44b1d25c4da3ba30df0a744b1437A.png'
         },
         {
           name: 'VERBG',

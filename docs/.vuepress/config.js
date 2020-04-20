@@ -17,7 +17,7 @@ module.exports = {
     blogConfig: {
       category: {
         location: 3,     
-        text: '贡献文档' 
+        text: '用户文档' 
       },
     // tag: {
     // location: 3, 
