@@ -2,7 +2,10 @@
 title: Makrdown教程-Mr.Li
 author: Mr.Li
 categories:
+ - ALL
  - markdown
+sidebar: 'auto'
+date: 2020-3.20
 ---
 <!-- more -->
 

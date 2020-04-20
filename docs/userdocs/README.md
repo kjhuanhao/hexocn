@@ -9,5 +9,3 @@ title: 用户贡献文档
 如果你有意向,请提交[issues](https://github.com/kjhuanhao/hexocn/issues/)
 :::
 
-## 感谢贡献过的用户！
-[MaskXman](https://github.com/MaskXman)
