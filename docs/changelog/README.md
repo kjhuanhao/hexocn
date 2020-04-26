@@ -5,6 +5,12 @@ title: 更新记录
 查看我们的计划: [project](https://github.com/kjhuanhao/hexocn/projects/2)
 
 ## 更新记录
+**2020.4.26**
+:::tip
+1. 增加邮件回复模板教程
+
+:::
+
 **2020.4.20**
 :::tip
 取得和Hexo中文社区合作

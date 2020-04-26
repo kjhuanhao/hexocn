@@ -25,3 +25,5 @@ git push -f git@github.com:kjhuanhao/hexocnsite.git master
 
 
 cd -
+
+echo "成功部署！"
