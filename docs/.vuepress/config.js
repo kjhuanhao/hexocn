@@ -4,10 +4,14 @@ module.exports = {
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/kjhuanhao/thecdn/hexocn/ico.png' }],
-    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
-   // ["script", { src: "https://cdn.jsdelivr.net/gh/kjhuanhao/webcdn@master/hexocn/jishu.js" }]
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
+   // ['meta', { name: 'baidu-site-verification', content: 'AnJLsdwtnt' }],
+    ['meta', { name: 'baidu-site-verification', content: 'rN510NBB79' }],
+    ['script', { type: 'text/javascript', src: '/config/push.js' }],
+    ['meta', { name: 'keywords', content: 'vuepress,hexo-theme,hexo主题,blog,hexo-blog, hexo中文站点,hexo文档,hexo中文文档,hexo,hexo社区' }]
+    // ["script", { src: "https://cdn.jsdelivr.net/gh/kjhuanhao/webcdn@master/hexocn/jishu.js" }]
   ],
-  
+
   theme: 'reco',
   themeConfig: {
     nav: require("./config/nav"),
