@@ -23,7 +23,7 @@ export default {
           name: 'Huanhao', 
           desc: '彼方为谁,无我有问,九月露湿,待君之前',
           link: 'https://mrhuanhao.cn/', 
-          themeimg: 'https://cdn.jsdelivr.net/gh/kjhuanhao/blogcdn/hexocn/image.png' 
+          themeimg: 'https://cdn.jsdelivr.net/gh/kjhuanhao/thecdn@master/2020/04/27/1b66587634a843ecbf18524c10013b3a.png' 
         },
         { 
           name: 'MaskXman', 
@@ -54,9 +54,25 @@ export default {
           desc: 'Welcome To Verbg.com',
           link: 'https://verbg.com/',
           themeimg: 'https://cdn.jsdelivr.net/gh/wangchenhui001/wangchenhui001.github.io/hexocn.jpg'
-        }
-
- 
+        },
+        {
+          name: 'HCLonely Blog', 
+          desc: '一个懒人的博客',
+          link: 'https://blog.hclonely.com/', 
+          themeimg: 'https://cdn.jsdelivr.net/gh/HCLonely/images@master/others/demo.png' 
+        },
+        {
+          name: 'InitCool',
+          desc: '打倒了100个四大魔公的男人',
+          link: 'https://blog.nmslwsnd.com/',
+          themeimg: 'https://i.loli.net/2020/04/20/Rfnw23LbmerGzIi.png'
+        },
+        {
+          name: 'Colsrch', 
+          desc: '愿多年以后，我可以酌一杯清酒，烂醉如泥，梦中回到我们的曾经。',
+          link: 'https://colsrch.top/', 
+          themeimg: 'https://s1.ax1x.com/2020/04/28/J45CRJ.png' 
+       }
       ]
     }
   }
