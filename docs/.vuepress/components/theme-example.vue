@@ -71,7 +71,25 @@ export default {
           name: 'Colsrch', 
           desc: '愿多年以后，我可以酌一杯清酒，烂醉如泥，梦中回到我们的曾经。',
           link: 'https://colsrch.top/', 
-          themeimg: 'https://s1.ax1x.com/2020/04/28/J45CRJ.png' 
+          themeimg: 'https://cdn.jsdelivr.net/gh/Colsrch/images@master/Colsrch/home.png' 
+       },
+       {
+       name: 'Flexiston', 
+       desc: '长风破浪会有时，直挂云帆济沧海',
+       link: 'https://www.flexiston.com/', 
+       themeimg: 'https://cdn.jsdelivr.net/gh/Colsrch/images@master/Flexiston/home.png' 
+       }
+       {
+       name: '陈之の鱼塘'
+       desc: '偷懒完了就该努力啦'
+       link: 'https://cher112.top/'
+       themeimg: 'https://gitee.com/cher112/image/raw/master/img/blog.jpg'
+       }
+       {
+       name: '初辰博客'
+       desc: '成功是努力的另一个名字！'
+       link: 'https://chuchendjs.github.io'
+       themeimg: 'https://cdn.jsdelivr.net/gh/chuchendjs/picgo/picgo/vuh.png'
        }
       ]
     }
