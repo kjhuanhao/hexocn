@@ -75,20 +75,20 @@ export default {
        },
        {
        name: 'Flexiston', 
-       desc: '长风破浪会有时，直挂云帆济沧海',
+       desc: '立即行动吧，未来要自己争取',
        link: 'https://www.flexiston.com/', 
-       themeimg: 'https://cdn.jsdelivr.net/gh/Colsrch/images@master/Flexiston/home.png' 
-       }
+       themeimg: 'https://cdn.jsdelivr.net/gh/Flexiston/CDN/img/myblog.png' 
+       },
        {
-       name: '陈之の鱼塘'
-       desc: '偷懒完了就该努力啦'
-       link: 'https://cher112.top/'
+       name: '陈之の鱼塘',
+       desc: '偷懒完了就该努力啦',
+       link: 'https://cher112.top/',
        themeimg: 'https://gitee.com/cher112/image/raw/master/img/blog.jpg'
-       }
+       },
        {
-       name: '初辰博客'
-       desc: '成功是努力的另一个名字！'
-       link: 'https://chuchendjs.github.io'
+       name: '初辰博客',
+       desc: '成功是努力的另一个名字！',
+       link: 'https://chuchendjs.github.io',
        themeimg: 'https://cdn.jsdelivr.net/gh/chuchendjs/picgo/picgo/vuh.png'
        }
       ]
