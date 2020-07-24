@@ -91,6 +91,12 @@ export default {
        link: 'https://chuchendjs.github.io',
        themeimg: 'https://cdn.jsdelivr.net/gh/chuchendjs/picgo/picgo/vuh.png'
        }
+       {
+       name: ‘kali’,
+       desc: ‘遇见更好的自己’,
+       link: ‘https://kali.js.org/',
+       themeimg: ‘https://cdn.jsdelivr.net/gh/kali65536/PicGo@latest/2020/07/20/48d173c0859c68371c75d738374a951a.png'
+       }
       ]
     }
   }
