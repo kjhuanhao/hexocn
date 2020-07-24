@@ -96,7 +96,7 @@ export default {
        desc: ‘遇见更好的自己’,
        link: ‘https://kali.js.org/',
        themeimg: ‘https://cdn.jsdelivr.net/gh/kali65536/PicGo@latest/2020/07/20/48d173c0859c68371c75d738374a951a.png'
-       },
+       }
       ]
     }
   }
