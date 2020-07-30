@@ -103,6 +103,12 @@ export default {
         link: 'https://senorui.top/',
         themeimg: 'https://i.loli.net/2020/07/11/WCUkgG5t3FZaDi4.png'
 
+       },
+       {
+       name: '云玩家',
+       desc: '虽于果壳内, 我亦无限王',
+       link: 'https://yunist.cn/',
+       themeimg: 'https://i.loli.net/2020/07/30/ngK163ITM9X2Hs4.png'
        }
       ]
     }
