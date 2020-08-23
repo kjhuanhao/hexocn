@@ -14,6 +14,14 @@ export default [
       repo: 'hexo-generator-random',
       feature: 'feature', //feature为扩展功能，style为博客优化
       scenes: 'user' //用户推荐
+      },
+    {
+      name: `hexo-submit-urls-to-search-engine`,
+      desc: '主动推送Hexo博客新链接至谷歌、必应、百度搜索引擎，提升网站收录质量和速度。',
+      user: 'cjh0613',
+      repo: 'hexo-submit-urls-to-search-engine',
+      feature: 'feature', //feature为扩展功能，style为博客优化
+      scenes: 'user' //用户推荐
       }
 
   ]
