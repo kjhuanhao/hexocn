@@ -20,6 +20,12 @@ export default {
       blogList: [
         
         { 
+          name: 'xwcker', 
+          desc: '海客GO - 爱牟 听着海客的瀛谈',
+          link: 'https://www.hack-gov.com.cn/', 
+          themeimg: 'https://www.hack-gov.com.cn/img/friend_404.gif' 
+        },
+        { 
           name: 'Huanhao', 
           desc: '彼方为谁,无我有问,九月露湿,待君之前',
           link: 'https://mrhuanhao.cn/', 
